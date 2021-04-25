@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Latihan SQLite</string>
+    <string name="label_nomor">Nomor</string>
+    <string name="label_nama">Nama</string>
+    <string name="buat_biodata_baru">Buat Biodata Baru</string>
+    <string name="tanggal_lahir">TanggalLahir</string>
+    <string name="jenis_kelamin">JenisKelamin</string>
+    <string name="alamat">Alamat</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Kembali</string>
+    <string name="label_tgl">Tanggal lahir</string>
+    <string name="label_jk">Jenis kelamin</string>
+    <string name="label_alamat">Alamat</string>
+</resources>
